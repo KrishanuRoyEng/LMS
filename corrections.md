@@ -1,4 +1,4 @@
-# OCR Corrections Log — Java Library Management System
+Corrections Log — Java Library Management System
 
 This document records every fix applied to the OCR-extracted source code from the PDF
 (**Section 8 – Java Library Management Mini Project**) to make it compile and run correctly.
